@@ -1,6 +1,7 @@
+#ignore all .txt files
 __pycache__/
 *.pyc
 *.log
 venv/
 .env
-.txt
+*.txt
